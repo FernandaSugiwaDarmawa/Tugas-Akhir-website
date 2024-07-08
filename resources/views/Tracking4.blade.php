@@ -95,31 +95,52 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
+            <tr>
                     <td>1</td>
-                    <td>Stasiun Mojokerto</td>
+                    <td>Stasiun Surabaya Kota</td>
                     <td>-</td>
-                    <td>06:00</td>
+                    <td>16:00</td>
                     <td id="status1">-</td>
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>Stasiun Tarik</td>
-                    <td>06:12</td>
-                    <td>06:16</td>
+                    <td>Stasiun Surabaya Gubeng</td>
+                    <td>16:08</td>
+                    <td>16:14</td>
                     <td id="status2">-</td>
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Stasiun Tulangan</td>
-                    <td>06:32</td>
-                    <td>06:36</td>
+                    <td>Stasiun Wonokromo</td>
+                    <td>16:21</td>
+                    <td>16:24</td>
                     <td id="status3">-</td>
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Stasiun Sidoarjo</td>
-                    <td>06:47</td>
+                    <td>Stasiun Sepanjang</td>
+                    <td>16:33</td>
+                    <td>16:35</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Stasiun Krian</td>
+                    <td>16:51</td>
+                    <td>16:55</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Stasiun Tarik</td>
+                    <td>17:04</td>
+                    <td>17:23</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Stasiun Mojokerto</td>
+                    <td>17:35</td>
                     <td>-</td>
                     <td id="status4">-</td>
                 </tr>
