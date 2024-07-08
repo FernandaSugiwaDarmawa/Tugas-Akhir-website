@@ -95,31 +95,52 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
+            <tr>
                     <td>1</td>
                     <td>Stasiun Mojokerto</td>
                     <td>-</td>
-                    <td>06:00</td>
+                    <td>08:00</td>
                     <td id="status1">-</td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>Stasiun Tarik</td>
-                    <td>06:12</td>
-                    <td>06:16</td>
+                    <td>08:11</td>
+                    <td>08:13</td>
                     <td id="status2">-</td>
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Stasiun Tulangan</td>
-                    <td>06:32</td>
-                    <td>06:36</td>
+                    <td>Stasiun Krian</td>
+                    <td>08:23</td>
+                    <td>08:36</td>
                     <td id="status3">-</td>
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Stasiun Sidoarjo</td>
-                    <td>06:47</td>
+                    <td>Stasiun Sepanjang</td>
+                    <td>08:54</td>
+                    <td>08:51</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Stasiun Wonokromo</td>
+                    <td>09:03</td>
+                    <td>09:06</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Stasiun surabaya Gubeng</td>
+                    <td>09:13</td>
+                    <td>09:17</td>
+                    <td id="status4">-</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Stasiun surabaya Kota</td>
+                    <td>09:25</td>
                     <td>-</td>
                     <td id="status4">-</td>
                 </tr>

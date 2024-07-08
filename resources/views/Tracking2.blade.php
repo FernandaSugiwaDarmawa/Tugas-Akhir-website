@@ -97,29 +97,29 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>Stasiun Mojokerto</td>
+                    <td>Stasiun Sidoarjo</td>
                     <td>-</td>
-                    <td>06:00</td>
+                    <td>07:05</td>
                     <td id="status1">-</td>
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>Stasiun Tarik</td>
-                    <td>06:12</td>
-                    <td>06:16</td>
+                    <td>Stasiun Tulangan</td>
+                    <td>07:16</td>
+                    <td>07:18</td>
                     <td id="status2">-</td>
                 </tr>
                 <tr>
                     <td>3</td>
-                    <td>Stasiun Tulangan</td>
-                    <td>06:32</td>
-                    <td>06:36</td>
+                    <td>Stasiun Tarik</td>
+                    <td>07:33</td>
+                    <td>07:35</td>
                     <td id="status3">-</td>
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td>Stasiun Sidoarjo</td>
-                    <td>06:47</td>
+                    <td>Stasiun Mojokerto</td>
+                    <td>07:46</td>
                     <td>-</td>
                     <td id="status4">-</td>
                 </tr>
